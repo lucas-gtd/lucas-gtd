@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **KeepMe (secret)**
 
-- 🌱 I’m currently learning **how to make the perfect working chat app**
+- 🌱 I’m currently learning **nodeJs rest API ORM's**
 
 - 👯 I’m looking to collaborate on **web projects**
 
