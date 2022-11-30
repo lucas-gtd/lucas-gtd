@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate web developer from France</h3>
 
-- 🔭 I’m currently working on **KeepMe (secret)**
-
-- 🌱 I’m currently learning **nodeJs rest API ORM's**
-
 - 👯 I’m looking to collaborate on **web projects**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/](https://www.linkedin.com/)
