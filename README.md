@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
+<div align="center">
+  <img height="32" alt="france" src="https://github.com/user-attachments/assets/fea79b63-3c57-49b2-b8d5-97f0c17f12d0" />
+  <img height="32" alt="USA" src="https://github.com/user-attachments/assets/bb7f6a4f-69c8-40c6-8a6f-04b6f075cff6" />
+</div>
 <h3 align="center">A passionate software & AI engineer from France</h3>
 
 <div align="center">
